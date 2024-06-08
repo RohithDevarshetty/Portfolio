@@ -1,0 +1,43 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: me
+    entries:
+      - title: "<a href='mailto:droshetty@gmail.com'>email</a>"
+      - title: github
+        url: https://github.com/RohithDevarshetty
+      - title: linkedin
+        url: https://www.linkedin.com/in/rohithd/
+      - title: resume
+        url: https://drive.google.com/file/d/1X7CT44lZgmCQtqitst6tjAkti3Hwy6sF/view
+
+  - title: all posts
+    entries:
+      - title: <span>2024-06-02</span>
+          <a href="https://systemsavvy.substack.com/p/raft-protocol">raft protocol</a>
+      - title: <span>2024-06-10</span>
+          <a href="https://systemsavvy.substack.com/p/top-picks-for-you">recommendations</a>
+  
+      
+
+  # - title: all posts
+    # post_list:
+    #   limit: 5
+    #   show_more: true
+    #   show_more_text: See archive...
+    #   show_more_url: archive.html
+
+  # - title: posts by category
+  #   post_list:
+  #     category: example2
+  #     show_more: true
+  #     show_more_text: See more posts...
+  #     show_more_url: example2-archive.html
+
+
+  - title: rss
+    url: https://systemsavvy.substack.com/feed
+
+  - title: newsletter
+    url: https://systemsavvy.substack.com/
